@@ -2,8 +2,9 @@
 Ini repositori untuk proyek Jao Hong Khai
 yang sedang mengembangkan Aplikasi "Administrasi HISADA"
 
-# Ringkasan Fungsi Sistem Hisada
-### Himpunan Santri Daarul Uluum Lido
+# Ringkasan Sistem Hisada
+
+### Himpunan Santri Daarul Uluum Lido (HISADA)
 
 ---
 
