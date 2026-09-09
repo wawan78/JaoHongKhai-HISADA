@@ -1,2 +1,3 @@
 # JaoHongKhai
-Aplikasi Pengembangan Jao Hong Khai
+Ini repositori untuk proyek Jao Hong Khai
+yang sedang mengembangkan Aplikasi "Administrasi HISADA"
